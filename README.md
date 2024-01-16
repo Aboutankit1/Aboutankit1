@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboutankit1&label=Profile%20views&color=0e75b6&style=flat" alt="aboutankit1" /> </p>
 
-- 🌱 I’m currently Working On **MYNTRA CLONE**
+- 🌱 I’m currently Working On **BLOG WEBSITE USING DJANGO**
 
 - 👨‍💻 All of my projects are available at [https://qr-code-generator-1-psi.vercel.app/](https://qr-code-generator-1-psi.vercel.app/)
 
