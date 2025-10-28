@@ -1,25 +1,65 @@
-<h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">Aspiring Front-end web Developer and software developer From India</h3>
+<h1 align="center">👋 Hey there, I'm <a href="https://www.linkedin.com/in/about-ankit/" target="_blank">Ankit</a></h1>
+<h3 align="center">🚀 Aspiring Front-End Web & Software Developer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aboutankit1&label=Profile%20views&color=0e75b6&style=flat" alt="aboutankit1" /> </p>
-
-- 🌱 I’m currently Working On JAVA SECURE WEB
-
-- 👨‍💻 All of my projects are available at [https://qr-code-generator-1-psi.vercel.app/](https://qr-code-generator-1-psi.vercel.app/)
-
-- 📫 How to reach me **ankit523@outlook.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1tGMduLvOvnlKSCPzyj581akF40RLG3IT](https://drive.google.com/drive/u/0/folders/1tGMduLvOvnlKSCPzyj581akF40RLG3IT)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/about-ankit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/about-ankit/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/aboutankit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/aboutankit" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aboutankit1&label=Profile%20Views&color=0e75b6&style=flat" alt="aboutankit1" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aboutankit1&show_icons=true&locale=en&layout=compact" alt="aboutankit1" /></p>
+### 🧠 About Me  
+- 🌱 Currently working on **Java Secure Web Applications**  
+- 💻 Check out my projects here: [QR Code Generator](https://qr-code-generator-1-psi.vercel.app/)  
+- 📫 Reach me at: **ankit523@outlook.com**  
+- 📄 Know more about my experiences: [My Resume](https://drive.google.com/drive/u/0/folders/1tGMduLvOvnlKSCPzyj581akF40RLG3IT)  
+- ⚡ Fun fact: *I love solving real-world problems through clean and efficient code.*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aboutankit1&show_icons=true&locale=en" alt="aboutankit1" /></p> make unique for github
+---
+
+### 🌐 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/about-ankit/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.codechef.com/users/aboutankit" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/codechef.svg" width="40" height="40" alt="CodeChef" />
+  </a>
+  <a href="mailto:ankit523@outlook.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,nodejs,mysql,flutter,dart,git,figma,firebase" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aboutankit1&show_icons=true&theme=react&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aboutankit1&theme=react&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboutankit1&layout=compact&theme=react&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+---
+
+### 🧩 Highlight Projects  
+- 🧾 [QR Code Generator App](https://qr-code-generator-1-psi.vercel.app/)  
+- 💼 Java Secure Web (Spring Boot) — *in progress*  
+- 🧠 Resume ATS Checker (React + Node.js) — *coming soon*
+
+---
+
+### 💬 Quote  
+> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**  
